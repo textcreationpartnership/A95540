@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fooles of fate: or, The unravelling of the Parliament and Army. Fate (for our crimes) permitted us to grumble 'gainst each thing, next for to be tumultuous, and fight against our King. ... Their Army are the peoples hate, both they will now pull down, and now behold the fools of fate fall dead by Charles his crowne.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95540</idno>
+            <idno type="STC">Wing T459</idno>
+            <idno type="STC">Thomason E453_47</idno>
+            <idno type="STC">ESTC R203924</idno>
+            <idno type="EEBO-CITATION">99863700</idno>
+            <idno type="PROQUEST">99863700</idno>
+            <idno type="VID">162008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162008)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fooles of fate: or, The unravelling of the Parliament and Army. Fate (for our crimes) permitted us to grumble 'gainst each thing, next for to be tumultuous, and fight against our King. ... Their Army are the peoples hate, both they will now pull down, and now behold the fools of fate fall dead by Charles his crowne.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor.</note>
+                  <note>Partly in verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162008:1" rendition="simple:additions"/>
+            <p>The Fooles of Fate: <hi>OR,</hi> The unravelling of the PARLIAMENT and ARMY.</p>
+            <lg>
+               <l>Fate (for our crimes) permitted us</l>
+               <l>To grumble 'gainſt each thing,</l>
+               <l>Next for to be tumultuous,</l>
+               <l>And fight againſt our King.</l>
+            </lg>
+            <lg>
+               <l>He, downe to have thoſe bore our eares,</l>
+               <l>We our Reformers made</l>
+               <l>To be ſole Authors of our feares,</l>
+               <l>And to make War a Trade.</l>
+            </lg>
+            <lg>
+               <l>They fearing we have found their ſlie</l>
+               <l>And villanous projction,</l>
+               <l>Have rais'd an Army, and will trie</l>
+               <l>To force us yeeld ſubjection.</l>
+            </lg>
+            <lg>
+               <l>Their Army are the peoples hate,</l>
+               <l>Both they will now pull down,</l>
+               <l>And now behold the <hi>Fools of Fate</hi>
+               </l>
+               <l>Fall dead by <hi>Charles</hi> his Crowne.</l>
+            </lg>
+            <p>Printed in the Yeer. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162008:2"/>
+            <pb n="1" facs="tcp:162008:2"/>
+            <head>The Fooles of Fate, or the unravelling of the Parliament and Army.</head>
+            <p>SEnators, Citizens and Souldiers have been ever noted as of different powers, ſo of different tempers, each party never imagining a parity for the Senator to meaſure out the Lawes by the City-yard, the Citizen to pin his faith upon the Senators ſleeve, or the Souldier to fight in a Gowne with the City-Charter in his hand, is as monſtrous as the <hi>Chaos</hi> of Presbyte<g ref="char:EOLhyphen"/>ry, or a King on the ſtoole of repentance.</p>
+            <lg>
+               <l>A ſweet Conjunction fure, an <hi>Omen</hi> good,</l>
+               <l>When Senate, City, Army joyne in blood,</l>
+               <l>While <hi>Martin, Warner, Cromwell</hi> do commix</l>
+               <l>To ruine King and Kingdome by their tricks:</l>
+               <l>While that theſe ſonnes of miſchiefe, though they hate</l>
+               <l>Each other, can meet and procreate</l>
+               <l>New brats of miſchief, and their Baſtard Heires</l>
+               <l>Muſt be maintained by the Kingdomes feares;</l>
+               <l>
+                  <hi>Fideſſa</hi> and <hi>Speranze</hi> all the graces</l>
+               <l>Doe with <hi>Aſtrea,</hi> flie to heavenly places:</l>
+               <l>
+                  <hi>Bellona vile Dueſſa,</hi> hell and night</l>
+               <l>Doe bring their monſtrous birth to the worlds light.</l>
+            </lg>
+            <p>Yet how dar'ſt thou thou ſawcie Muſe, to queſtion the acts of thoſe mechanick Princes? Knoweſt thou not that <hi>Martin</hi> may belch in thy face, (the ſteeme of his hot breath being of a more ſuffocating efficacie to men, then the lake <hi>Avernus</hi> to birds) and blaſt thee with <hi>Naamans</hi> Leproſie? Feareſt thou not that <hi>War<g ref="char:EOLhyphen"/>ners</hi> Worſhip, (that excellent City-Patriot, whoſe innocency is ſuch that he ſcarce diſcernes his right hand from his left, or a Ge<g ref="char:EOLhyphen"/>neva Bible from the Holy Writ) the true and undoubted Mayor of London, <hi>Stilo novo,</hi> will not ſummon thee before his Non<g ref="char:EOLhyphen"/>ſenſeſhip, and having expoſtulated with thee a long time in the Barbarian tongue, ſend a Tipſtaffe with thee to <hi>Tullianum?</hi> may not <hi>Cromwell</hi> (if his Grace be yet mortall) command his Journev<g ref="char:EOLhyphen"/>men at Weſtminſter to call thee before them, and to paſſe their doom upon thee, as an oppoſer of the Saints, and an abuſer of his
+<pb n="2" facs="tcp:162008:3"/>Noſe? Yes, yes, it is worth thy feare, were it not that thou art now non-reſident, ſometimes at Weſtminſter to the terrour of the Junto, ſometimes at Guild-hall, and then M. <hi>Warner</hi> ſtarts, as if he ſaw the glimps of his Majeſties ſword, ſometimes at the Court of Guard, before Colcheſter, and then <hi>Tom</hi> halts from be<g ref="char:EOLhyphen"/>fore thee, as if the pockey humour in his toe had forſaken him: the truth is, thou art prying every where, conſtant no where, &amp;c.</p>
+            <lg>
+               <l>And 'tis but requiſite when Rebells gape,</l>
+               <l>When <hi>Lewis</hi> that fell wolfe, <hi>Leechman</hi> that Ape,</l>
+               <l>And <hi>Hunſcot</hi> that ſame Otter hunt about,</l>
+               <l>And with a full cry trace the royall Rout.</l>
+            </lg>
+            <p>But I ſtand too long at the gate, now I will enter the inchanted Caſtle, and skirmiſh a while with Devills and Centaurs, <hi>i. e.</hi> with the Junto and Army; I am in the round Houſe of Yeas and Noes, even in the Houſe of Commons, it is fit therefore I proſtrate my ſelf on my maribones, &amp; ſupplicate their high &amp; mightineſſes thus:</p>
+            <lg>
+               <l>All haile moſt high and mighty Sots,</l>
+               <l>Who England do divide by lots,</l>
+               <l>To whom all Rebells ever were,</l>
+               <l>Were puny rogues, whoſe wit or feare</l>
+               <l>Deterr'd them from your monſtrous acts,</l>
+               <l>And plowing hell with horrid facts.</l>
+               <l>Inhumane Vipers hatch'd to be</l>
+               <l>The Midwives of our miſerie,</l>
+               <l>Where is your King? ſee how a red</l>
+               <l>Dide deep doth o're their faces ſpread:</l>
+               <l>Is there Law, Goſpell, is there ſenſe</l>
+               <l>'Mongſt Mortalls? or hath impudence</l>
+               <l>Surpriz'd the Organs of the mind?</l>
+               <l>It hath, as truth by you we find;</l>
+               <l>Our eyes of Treaſon we accuſe,</l>
+               <l>Becauſe they lead us to peruſe</l>
+               <l>Your damned Votes, ſuch Legends are</l>
+               <l>Not in <hi>Baronius Occular:</hi>
+               </l>
+               <l>Shall <hi>Charles</hi> be mewd up in a cage,</l>
+               <l>While you injoy the golden Age?</l>
+               <l>He ſent to the extreameſt bounds,</l>
+               <l>Where night <hi>Hyperions</hi> ſonne confounds,</l>
+               <pb n="3" facs="tcp:162008:3"/>
+               <l>Sitting the pole ſo farre beneath,</l>
+               <l>He ſcarcely heares the windes that breath,</l>
+               <l>While you (brave Jovialiſts) command</l>
+               <l>Like Gods of clay, by Sea and Land,</l>
+               <l>Reſigne, reſigne, ere it be too late,</l>
+               <l>Proceed not for to tempt your Fate:</l>
+               <l>
+                  <hi>Tom</hi> cannot ſave you, he is lame,</l>
+               <l>Nois gon to Hell, from whence you came:</l>
+               <l>Let not your lying Prophets be</l>
+               <l>The oracles of deſtinie,</l>
+               <l>In your eſteem, till ſent by us</l>
+               <l>Unto profoundeſt Tartarus.</l>
+               <l>Lillies a Lyer, each man ſees</l>
+               <l>By his owne Ephimerides:</l>
+               <l>And <hi>Booker,</hi> hath miſtook the ſtarres,</l>
+               <l>While he proposd all peace, no warres:</l>
+               <l>Though you perhaps, like Fooles of Fate,</l>
+               <l>A while yet longer may be great,</l>
+               <l>Yet know your ruine is decreed</l>
+               <l>By heaven and men; then look to bleed.</l>
+            </lg>
+            <p>Look for <hi>Platoes</hi> yeare, or for <hi>Mahomets Elizium</hi> ſay they, as ſoone as to behold our downfall; delude your ſelves with vaine hopes to the laſt minute; it will be the more ample Juſtice &amp; com<g ref="char:EOLhyphen"/>pleat revenge: in the mean time, 'twere fit that the people were throughly perſwaded of your wickedneſſe, &amp; that they no longer worſhiped the <hi>God of Heaven</hi> &amp; of <hi>Eckron</hi> at once, nor like Bu<g ref="char:EOLhyphen"/>geſſe the counterfeit Doctor of Pauls, halt between two opinions, one while inveigh againſt <hi>Sectaries,</hi> another advance the gifts of private <hi>Saints,</hi> &amp; Button-makers, you have aſſumed the impu<g ref="char:EOLhyphen"/>dence to name your ſelves a Parliament; are you ſo — look how <hi>Weaver</hi> gnaſheth his teeth at me, (the Rogue ſure hath got an a<g ref="char:EOLhyphen"/>gue in his Jawes) ſee how <hi>Scot</hi> bends his rough front (which to me ſeemeth ſome barren rock inhabited by <hi>Serpents,</hi> and over growne with withered moſſe) ſirra, all thy invectives againſt his Majeſty will not availe; the King muſt live to behold thy pernici<g ref="char:EOLhyphen"/>ous ſoule diſmiſſed by torture, the time will come (when thou that haſt often urged to thy fellow Ravilliacks, that his Majeſty ought to be brought to legall triall for his life, and to be hang'd) ſhalt be hanged up alive in chains &amp; not die till thou beholdſt the fowles of the aire to fetch away thy limmes
+<pb n="4" facs="tcp:162008:4"/>by parcells. Doe you ſtare Devills, doe you ſtare? I ſay, you that have the impudence to name your ſelves a Parliament, and your Pamphleters roar out the name of Lords and Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, with ſuch a bellowing noiſe, that the whole Land ecchoes againe, while in the mean time, your ſelves laugh at the fooles that divulge, and all thoſe that are ſo mad to believe it, your ſelves well knowing that you are no more a Parliament, then I am a Round-head, that <hi>Pembroke</hi> is knowing or <hi>Say</hi> loyall; you well know, that you are but a part of a part, a handfull of cunning Conſpirators, a Parliament being an intire Body, conſiſting of his Majeſty, the Lords ſpirituall and temporall, to a head, and a Commoner for every particular Shire, not a parcell of Peers ſome twelve in number, that ſhew in their Chaires when their Houſe is fulleſt, like ſo many ſcabbey ſheep upon a vaſt mountaine: you are a meer Conventicle of Regicides, your Houſe, is that Augaean Stable which muſt be purg'd by that <hi>Hercules,</hi> whoſe hands are yet tied behinde him, King <hi>Charles.</hi> I will ſhew you how and in what ſenſe you are a Parliament.</p>
+            <lg>
+               <l>If to be damn'd, Diſſemblers to pretend</l>
+               <l>To act a good, yet no ſuch thing intend,</l>
+               <l>If to be ſacrilegious Theeves, to ſweare,</l>
+               <l>To covenant with hell Sans wit or feare;</l>
+               <l>For to rebell againſt your King, to plot</l>
+               <l>How to draw in the ſoone deluded Scot</l>
+               <l>Joyntly for to ingage, and ſo to hell</l>
+               <l>Send two Nations at once; if lies to tell,</l>
+               <l>And buz into the credulous peoples eares,</l>
+               <l>So to ſtirre up their ſtomacks with their feares;</l>
+               <l>If to clap up your King a priſoner,</l>
+               <l>And ſo alive his perſon to inter;</l>
+               <l>Or if to uſe all waies to take his life,</l>
+               <l>Baniſh his children and his loyall wife:</l>
+               <l>If to o'rethrow and quite root out all Law,</l>
+               <l>To cheriſh vice, and vertue over-awe:</l>
+               <l>If to permit all Errours for to ſwarme</l>
+               <l>Unto the Kingdomes, moſt the Churchees harme;</l>
+               <l>If to purſue and proſecute with ſpite,</l>
+               <l>All thoſe who of your evill acts do write;</l>
+               <l>If to be perjur'd perſons, to contemne,</l>
+               <pb n="5" facs="tcp:162008:4"/>
+               <l>And trample on the Royall Diadem,</l>
+               <l>If for to act againſt all ſenſe and reaſon,</l>
+               <l>The deepeſt miſchiefe, and the higheſt treaſon:</l>
+               <l>If to defraud a Nation of their goods,</l>
+               <l>And on the ground, like water ſpill their bloods,</l>
+               <l>If to be curſt on all the world may make yee</l>
+               <l>A Parliament, be ſo; the Devill ſtake yee.</l>
+            </lg>
+            <p>But I pray tell me, are you reſolv'd now at laſt to treat with his Majeſty? dare you look him in the face whom you have ſo horribly abuſed, and whoſe Rovall Righteous ſoul you have ſo inhumanely vexed, that had not God, whoſe Vicegerent he is (and whom the world may ſee he reſpects as the apple of his eye) preſerved him beyond humane expectation, you by this time might have triumph in his fall, and this poore Nation have been for ever loſt by his death; Alas we all know that this is but your old trick to deceive the People, you dare aſwell be tryed by the known Lawes for all your forepaſt actions, as admit of a Perſonall Treaty with his Majeſty; the one brings on tother as ſure as Death; ti's good pollicy I confeſſe now that the vulgar are ſo mad againſt you, and have declared that they will have their King out of priſon with honour, or pull you out of your houſe with horror, to ſtop their mouthes with ſugar-plums if they will prove of that babelike temper, as to be led by the noſe with ſuch a ſpinners thread, and fooled ſo egregiouſly after all their bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tling? You would faine ſtave off the loyall cittizens, with this reed, till <hi>Skippon</hi> hath liſted a ſufficient number of horſes, that may if need be fall upon thoſe that lately manifeſted their deſires for a Treaty, or ſhall dare to doe it hereafter, to the plundering of their lives and perſons, or till <hi>Colcheſter</hi> ſhall be taken in.</p>
+            <lg>
+               <l>But all theſe curſt devices muſt not doe,</l>
+               <l>It is decreed, and you will find it true;</l>
+               <l>That Colcheſters brave lads will neyer yeild:</l>
+               <l>That the Scots Army having tane the Feild,</l>
+               <l>Mixt with fierce <hi>Langdales</hi> force, Tom muſt withdraw</l>
+               <l>And poſt to Lambert for to help the Daw:</l>
+               <l>Meantime with thoſe in Colcheſter will ſide</l>
+               <l>All thoſe in London, who abhorre your pride:</l>
+               <l>Then downe, downe, downe, downe, the hill,</l>
+               <l>Then you that have lov'd blood ſhall quaffe your fill:</l>
+            </lg>
+            <pb n="6" facs="tcp:162008:5"/>
+            <p>And if your Army moulder away in the North as they are like ſuddenly to doe if they dare to ingage, ſince the Scots and Eng<g ref="char:EOLhyphen"/>liſh <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there now joined together make up no leſſe then four <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thouſand a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e men, who have a cauſe able to make <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> valiant, and to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit into the moſt puſillanimous Therfites, that Army who nave all this while backt you in all your ungodly and wretched deſignes, will then ſmart for all their per<g ref="char:EOLhyphen"/>nicious practiſes, their plunders maſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cres and outrages, ſuch as no hiſtorie can paral<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, or any old Romance produce the like, and if the old Saints be once totally ſuppreſt where will your high and mightineſſe make up ſuch annother Army of plunderers, your nurſeries will ſo much reſpect their own ſafety, as not to haz<g ref="char:EOLhyphen"/>zard their perſons for a decaying cauſe, the cittizens now have found their error, and reſolve to keep the little money they have left, ſince the publike faith is like ſhortly to take its pro<g ref="char:EOLhyphen"/>greſſe with your ſelves into ſome forraigne climate, you have a taſt of their intentions and reſolutions, by their late petitioning, for a ſpeedie Perſonall Treatie.</p>
+            <lg>
+               <l>Then when your Rakeſhames of the Army faiſe,</l>
+               <l>And your ſworne enemies each where prevaile.</l>
+               <l>Whenas the Scots and Engliſh ſhall make war</l>
+               <l>And force their way even to Colcheſter:</l>
+               <l>When London, Weſtminſter, ſhall both unite</l>
+               <l>Againſt their Independent foes to fight,</l>
+               <l>Whenas Prince Charles ſhall land, King Charles be free,</l>
+               <l>Then woe unto you for your Treacherie.</l>
+            </lg>
+            <p>Thus you <hi>Fooles of Fate,</hi> for all your big hopes built upon ſuch ſlender grounds (that no man poſſeſſed of ſenſe, but would count himſelfe capable of Bedlam Colledge, if he credited them) you cannot avoid your dire and moſt inevitable Deſtinie; your ſtalk<g ref="char:EOLhyphen"/>ing Champion <hi>Skippon</hi> is lookt upon by the cittizens even with as gracious an eye as <hi>Fairfax</hi> was when he brought the plunde<g ref="char:EOLhyphen"/>rers into Southwark; they will not permit him to liſt forces.</p>
+            <lg>
+               <l>Then know you cannot ſcape, as you can hope,</l>
+               <l>For there ſtands <hi>Derrick,</hi> and there lies the rope.</l>
+            </lg>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
